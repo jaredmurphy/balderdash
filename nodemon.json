@@ -1,0 +1,11 @@
+{
+  "verbose": true,
+  "watch": [
+    "src",
+    ".env"
+  ],
+  "ext": "js,json",
+  "ignore": [
+    "__test__/*"
+  ]
+}
